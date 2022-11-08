@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE_Course_HW2",
+			"Path": "C:\\Users\\Anastasia\\Documents\\Unreal Projects\\UE_Course_HW2\\Source\\UE_Course_HW2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE_Course_HW2Editor",
+			"Path": "C:\\Users\\Anastasia\\Documents\\Unreal Projects\\UE_Course_HW2\\Source\\UE_Course_HW2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

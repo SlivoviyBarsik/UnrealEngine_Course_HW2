@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE_Course_HW2-0009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE_Course_HW2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\FirstRadioChild.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\RadioParent.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE_Course_HW2.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE_Course_HW2Character.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE_Course_HW2GameMode.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\FirstRadioChild.gen.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\RadioParent.gen.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE_Course_HW2.init.gen.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE_Course_HW2Character.gen.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE_Course_HW2GameMode.gen.cpp.obj"
+"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\Default.rc2.res"
+/OUT:"C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE4Editor-UE_Course_HW2-0009.lib"

@@ -1,0 +1,2 @@
+C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\Definitions.UE_Course_HW2.h
+C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Source\UE_Course_HW2\UE_Course_HW2.h

@@ -1,0 +1,13 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Anastasia\Documents\Unreal Projects).
+  Building UE_Course_HW2Editor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 8 processes...
+    [1/5] FirstRadioChild.cpp
+    [2/5] SecondRadioChild.cpp
+    [3/5] UE4Editor-UE_Course_HW2.lib
+       Creating library C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE4Editor-UE_Course_HW2.lib and object C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE4Editor-UE_Course_HW2.exp
+    [4/5] UE4Editor-UE_Course_HW2.dll
+       Creating library C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE4Editor-UE_Course_HW2.suppressed.lib and object C:\Users\Anastasia\Documents\Unreal Projects\UE_Course_HW2\Intermediate\Build\Win64\UE4Editor\Development\UE_Course_HW2\UE4Editor-UE_Course_HW2.suppressed.exp
+    [5/5] UE_Course_HW2Editor.target
+  Total time in Parallel executor: 3.77 seconds
+  Total execution time: 4.46 seconds
